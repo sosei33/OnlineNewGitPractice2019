@@ -20,7 +20,9 @@ once, git pull doesn’t work for you
 git add .
 git commit -m “commit message”
 git pull
-Then, git will show you conflicting files. You can manually go and update files and leave content that you want. Then, just commit changes again. By doing this, we can decide what changes will stay, since git cannot decide automatically.
+Then, git will show you conflicting files. You can manually go and
+update files and leave content that you want. Then, just commit changes again.
+ By doing this, we can decide what changes will stay, since git cannot decide automatically.
 Fix conflicting files manually or use IDE in-build tools.
 Then, commit again:
 git add .
