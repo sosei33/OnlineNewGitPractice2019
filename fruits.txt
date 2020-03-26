@@ -3,3 +3,6 @@ mango
 apple
 kiwi
 pear
+
+Sam fruit
+George fruit
