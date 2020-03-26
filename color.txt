@@ -5,5 +5,10 @@ brown
 white
 green
 
+<<<<<<< Updated upstream
 black
 blue
+=======
+yellow
+pink
+>>>>>>> Stashed changes

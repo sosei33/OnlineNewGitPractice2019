@@ -51,19 +51,19 @@ what you can do?
  - just accept changes
  - stash changes --- >
 
-                git stash
+              1.  git stash
 every stash, has some id:
 stash@{0}: WIP on master: 4923690 resolved conflict
 stash@{0} - stash id,
 WIP on master: 4923690 resolved conflict - stash message
 once you have stashed your changes, they will be temporary removed from your code. But, they will not disappear. They will be stashed.
 Once you stashed changes, you can easily pull updates:
-git pull
+2.git pull
 Then, once you want to apply stashed changes again, just run:
-    git stash pop --> it will apply last stash yo your code back. It will create a conflict, so you would need manually/with tools resolve the conflict.
+    3.git stash pop --> it will apply last stash yo your code back. It will create a conflict, so you would need manually/with tools resolve the conflict.
 if you have couple of stashes:
-    git stash list -- to see all stashes
-    git stash pop <stash_id> - to apply specific stash, not just latest one.
+    4.git stash list -- to see all stashes
+    5.git stash pop <stash_id> - to apply specific stash, not just latest one.
 if you want to delete all stashes:
     git stash clear
 delete specific one:
