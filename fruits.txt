@@ -1,7 +1,6 @@
 orange
 mango
-<<<<<<< HEAD
 apple
-=======
 kiwi
->>>>>>> aa9bb1796e14a5775622c13ec715c956a409c156
+
+
