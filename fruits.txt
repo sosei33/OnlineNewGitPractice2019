@@ -4,5 +4,10 @@ apple
 kiwi
 pear
 
+
 Sam fruit
 George fruit
+
+strawberry
+plum
+
