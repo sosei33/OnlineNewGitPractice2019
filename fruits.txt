@@ -3,3 +3,5 @@ mango
 apple
 kiwi
 pear
+strawberry
+plum
