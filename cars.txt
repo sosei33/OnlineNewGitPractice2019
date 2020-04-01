@@ -8,3 +8,4 @@ Kia Optima
 Honda Civic
 kia Optima
 Subaru WRX STI
+Range Rover Velar
